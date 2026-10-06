@@ -1,4 +1,4 @@
-<img width="642" height="718" alt="image" src="https://github.com/user-attachments/assets/e1533fc1-fc77-40e1-9e93-c8a3083e0477" /># Telegram-бот для приёма заявок
+# Telegram-бот для приёма заявок
 
 Бот принимает заявки от пользователей, сохраняет в SQLite и присылает уведомление администратору в Telegram.
 
