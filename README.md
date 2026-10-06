@@ -1,4 +1,4 @@
-# Telegram-бот для приёма заявок
+<img width="642" height="718" alt="image" src="https://github.com/user-attachments/assets/e1533fc1-fc77-40e1-9e93-c8a3083e0477" /># Telegram-бот для приёма заявок
 
 Бот принимает заявки от пользователей, сохраняет в SQLite и присылает уведомление администратору в Telegram.
 
@@ -23,6 +23,8 @@
 4. (Опционально) Указать SOCKS5-прокси в `PROXY`.
 5. Запустить:
    python bot.py
+   
+<img width="642" height="718" alt="image" src="https://github.com/user-attachments/assets/32d49cc9-a220-49d0-b668-640a4190a69c" />
 
 ## Что можно доработать под задачу
 - Замена SQLite на Google Sheets или PostgreSQL
